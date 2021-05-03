@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssnioka
-- 👀 I’m interested in cross-app developments, PWA, anything related to good programming practise
-- 🌱 I’m currently learning Flutter/Dart/JS
+- 👀 I’m interested in cross-application development, PWA, anything related to good programming practise
+- 🌱 I’m currently learning Flutter/Dart/JS/C#/data structures
 - 📫 How to reach me simonassnio@gmail.com
 
 <!---
